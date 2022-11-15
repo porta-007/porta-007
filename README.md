@@ -2,7 +2,7 @@
 - 👀 I’m interested in virtual reality 
 - 🌱 I’m currently learning c++
 - 💞️ Just a beginner
-- 📫 Reach me at (adityachavhan555@gmail.com)
+
 
 <!---
 porta-007/porta-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
